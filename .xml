@@ -1,0 +1,12 @@
+# adding Sphinx dependencies in the file
+      <dependency>
+		      <groupId>de.sciss</groupId>
+		    	<artifactId>sphinx4-data</artifactId>
+		    	<version>1.0.0</version>
+		  </dependency>
+
+		  <dependency>
+		    	<groupId>net.sf.phat</groupId>
+			    <artifactId>sphinx4-core</artifactId>
+			    <version>5prealpha</version>
+		  </dependency>
